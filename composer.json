@@ -1,6 +1,6 @@
-{
+'{
     "name": "sumitchowjar/albert",
-    "version": "master",
+    "version": "1.0",
     "repositories": [
         {
             "type": "vcs",
