@@ -1,0 +1,12 @@
+{
+    "name": "sumitchowjar/albert",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sumitchowjar/albert"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
